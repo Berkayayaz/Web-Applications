@@ -1,0 +1,33 @@
+.form-container {
+  margin-bottom: 30px;
+}
+
+.panel {
+  margin: 0 auto;
+  margin-top: 10%;
+  width: 750px;
+}
+
+body {
+  background: #FAFAFA;
+}
+
+.btn-primary {
+  background: #34B3A0;
+  border-color: #34B3A0;
+}
+
+.btn-primary:hover {
+  background: #34B3A0;
+  border-color: #34B3A0;
+}
+
+.btn-primary:focus {
+  background: #34B3A0;
+  border-color: #34B3A0;
+}
+
+.btn-primary:active {
+  background: #34B3A0;
+  border-color: #34B3A0;
+}

@@ -1,0 +1,22 @@
+
+/*
+ .btn {
+    height: 30px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-radius:1px; 
+}*/
+.results tr[visible='false'],
+.no-result{
+  display:none;
+}
+
+.results tr[visible='true']{
+  display:table-row;
+}
+
+.counter{
+  padding:8px; 
+  color:#ccc;
+}
