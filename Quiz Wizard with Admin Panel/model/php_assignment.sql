@@ -166,12 +166,5 @@ ALTER TABLE `test`
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
---
--- Create user with limited privileges on all tables.
--- User Name: 'mgs_user'
--- Password : 'pa55word'
---
-GRANT SELECT, INSERT, DELETE, UPDATE
-ON php_assignment.*
-TO mgs_user@localhost
-IDENTIFIED BY 'pa55word'
+
+
